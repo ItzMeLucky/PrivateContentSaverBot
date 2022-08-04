@@ -8,9 +8,9 @@
         "save restricted",
         "bot"
     ],
-    "repository": "https://github.com/ItzMeLucky/PrivateContentSaverBot",
+    "repository": "https://github.com/kd2929/PrivateContentSaverBot",
     "website": "",
-    "success_url": "https://t.me/RequestMaterial",
+    "success_url": "https://t.me/@savevideo05_bot",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
